@@ -1,5 +1,5 @@
 {
-  "name": "activate-power-mode",
+  "name": "activate-hexr-mode",
   "main": "./lib/activate-power-mode",
   "version": "0.4.1",
   "description": "Activate POWER MODE to write your code in style.",
